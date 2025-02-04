@@ -1,0 +1,3 @@
+[user]
+	name = Bernard Okomfo
+	email = okomfobernard24@gmail.com\ngit clone https://github.com/Bern5Pro.git\ncd/path/to/your/code\ngit init\ngit add .Bern5Pro\ngit commit -m Bern5Pro\ngit config --global user.email okomfobernard24@gmail.com
